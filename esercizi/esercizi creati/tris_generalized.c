@@ -3,7 +3,7 @@
 
 #define N 9
 #define R 3
-char position[N] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
+char position[N] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
 
 bool iswin()
 {
